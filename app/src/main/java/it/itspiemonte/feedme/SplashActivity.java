@@ -11,6 +11,6 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
         Log.i("Prova FeedMe","prova push");
-
+        Log.i("Prova FeedMe","prova mook");
     }
 }
