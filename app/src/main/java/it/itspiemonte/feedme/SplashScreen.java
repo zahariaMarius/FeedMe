@@ -15,7 +15,7 @@ public class SplashScreen extends Activity {
         // TODO Auto-generated method stub
         super.onCreate(savedInstanceState);
         setContentView(R.layout.splash);
-
+       //timing per lo spash
         Thread timerThread = new Thread(){
             public void run(){
                 try{
